@@ -5436,11 +5436,11 @@ def main():
     Command-line interface for the sequential scraper.
     
     Usage:
-        python sequential_scraper.py "University Name"
+        python Uniscraper.py "University Name"
     """
     if len(sys.argv) < 2:
-        print("Usage: python sequential_scraper.py \"University Name\"")
-        print("Example: python sequential_scraper.py \"SUNY Brockport\"")
+        print("Usage: python Uniscraper.py \"University Name\"")
+        print("Example: python Uniscraper.py \"SUNY Brockport\"")
         sys.exit(1)
     
     university_name = sys.argv[1]
