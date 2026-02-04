@@ -5224,7 +5224,7 @@ def process_programs_extraction(university_name, step):
 
 
 # ============================================================================
-# SEQUENTIAL ORCHESTRATION - FROM sequential_scraper.py
+# SEQUENTIAL ORCHESTRATION - FROM Uniscraper.py
 # ============================================================================
 
 
