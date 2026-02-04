@@ -88,8 +88,8 @@ python3 Uniscraper.py "Harvard University"
 
 ### Core Files
 
-* `Uniscraper.py`: The main scraper application containing all extraction logic (~5500 lines)
-  * **Institution Module**: 80+ functions to extract university-level data (location, contact, demographics, URLs, requirements)
+* `Uniscraper.py`: The main scraper application containing all extraction logic
+  * **Institution Module**: Functions to extract university-level data (location, contact, demographics, URLs, requirements)
   * **Department Module**: Functions to extract department information from university websites
   * **Graduate Programs Module**: Complete extraction pipeline with multiple sub-stages
   * **Undergraduate Programs Module**: Complete extraction pipeline for undergraduate programs
