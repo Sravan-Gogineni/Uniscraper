@@ -34,6 +34,8 @@ import json
 import pandas as pd
 import time
 import random
+import requests
+from urllib.parse import urlparse
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
