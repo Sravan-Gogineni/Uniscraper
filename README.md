@@ -74,7 +74,6 @@ python3 Uniscraper.py "University Name"
 
 ```
 
-> **Note:** Replace `main.py` with your actual filename if it differs. If the university name contains spaces, ensure it is wrapped in quotes.
 
 ### Example
 
